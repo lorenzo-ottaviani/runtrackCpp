@@ -3,7 +3,7 @@
 * Date : 13/05/2025 15h31
 * But du programme :
 *    Vérifie si un nombre est pair ou impair.
-* Entrée : ∅
+* Entrée : Le nombre à tester.
 * Sortie : Affiche si le nombre est pair ou impair dans le terminal.
 */
 

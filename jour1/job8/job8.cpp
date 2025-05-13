@@ -3,7 +3,7 @@
 * Date : 13/05/2025 18h51
 * But du programme :
 *    Vérifie si une année est bissextile.
-* Entrée : ∅
+* Entrée : L'année à tester.
 * Sortie : Affiche si l'année est bissextile ou pas dans le terminal.
 */
 

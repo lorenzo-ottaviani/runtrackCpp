@@ -3,7 +3,7 @@
 * Date : 13/05/2025 11h22
 * But du programme :
 *    Créer la table de multiplication d'un entier n.
-* Entrée : ∅
+* Entrée : Entier n.
 * Sortie : Affichage de la table de l'entier n dans le terminal.
 */
 
