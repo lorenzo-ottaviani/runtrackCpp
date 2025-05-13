@@ -1,3 +1,10 @@
+/*
+* Auteur : Lorenzo OTTAVIANI.
+* Date : 12/05/2025 18h39
+* But de l'exercice :
+*    Déterminer le type et la valeur du résultat de ses opérations
+*/
+
 char c = '\x01';
 short int p = 10;
 x = p + 3;  // int, 13

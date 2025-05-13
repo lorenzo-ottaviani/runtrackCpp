@@ -1,3 +1,10 @@
+/*
+* Auteur : Lorenzo OTTAVIANI.
+* Date : 12/05/2025 17h25
+* But de l'exercice :
+*    Enlever les parenthèses inutiles.
+*/
+
 a = x + 5
 a = (x = y) + 2
 a = (x == y)
