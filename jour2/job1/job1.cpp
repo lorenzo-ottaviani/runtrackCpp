@@ -3,7 +3,7 @@
 * Date : 14/05/2025 13h46
 * But du programme :
 *    Demande en boucle à l'utilisateur d'entrer un nombre supérieur à 0 tant que ce n'est pas correct.
-* Entrées : Le nombre.
+* Entrée : Le nombre.
 * Sortie : ∅
 */
 

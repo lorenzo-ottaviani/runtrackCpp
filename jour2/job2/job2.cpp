@@ -1,9 +1,9 @@
 /*
 * Auteur : Lorenzo OTTAVIANI.
-* Date : 14/05/2025 14h46-
+* Date : 14/05/2025 14h46
 * But du programme :
 *    Indique la taille d'un élément selon le nombre entré par l'utilisateur.
-* Entrées : Le nombre.
+* Entrée : Le nombre.
 * Sortie : Affiche la taille de l'élément dans le terminal.
 */
 
