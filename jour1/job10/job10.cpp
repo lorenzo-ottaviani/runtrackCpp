@@ -6,7 +6,7 @@
 * Entrées : La quantité de carottes, le prix HT au kilo et la TVA.
 * Sortie : Affiche le prix TTC dans le terminal.
 */
- 
+
 #include <iostream>
 #include <cmath>
 
@@ -28,14 +28,14 @@ int main() {
     }
 
     int b;
-    std::cout << "Indique la TVA a appliquer : " << std::flush;
+    std::cout << "Indique la TVA à appliquer : " << std::flush;
     if (!(std::cin >> b)) {
         std::cerr << "Erreur : vous devez entrer un nombre entier !" << std::endl;
         return 1;
     }
 
     double c;
-    std::cout << "Indique la quantite de carottes voulue : " << std::flush;
+    std::cout << "Indique la quantité de carottes voulue : " << std::flush;
     if (!(std::cin >> c)) {
         std::cerr << "Erreur : vous devez entrer un nombre entier !" << std::endl;
         return 1;

@@ -1,0 +1,6 @@
+Réponse donnée en fonction des cas demandés par le programme :
+cas 0 : Null et Petit
+cas 1 : Petit
+cas 4 : Moyen et Grand
+cas 10 : Grand
+cas - 5 : Grand
