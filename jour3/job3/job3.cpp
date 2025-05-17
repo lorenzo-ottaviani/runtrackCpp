@@ -3,7 +3,7 @@
 * Date : 16/05/2025 15h12
 * But du programme :
 *    Vérifier si deux chaînes de caractères sont identiques.
-* Entrée : ∅
+* Entrée : Les deux chaines de caractères.
 * Sortie : Retourne une erreur si les deux chaînes sont différentes dans le terminal.
 */
 
