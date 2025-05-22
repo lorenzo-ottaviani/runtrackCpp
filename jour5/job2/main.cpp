@@ -1,6 +1,6 @@
 /*
 * Auteur : Lorenzo OTTAVIANI.
-* Date : 22/05/2025 18h49
+* Date : 22/05/2025 9h07
 * But du programme :
 *    Déplacer un joueur.
 * Entrée : ∅
@@ -11,10 +11,7 @@
 
 int main() {
 
-    Joueur Mario;
-
-    Mario.x = 20;
-    Mario.y = 5;
+    Joueur Mario(20, 5);
 
     Mario.deplacerBas(8);
     Mario.deplacerDroite(2);
