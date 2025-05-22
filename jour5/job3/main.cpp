@@ -2,9 +2,9 @@
 * Auteur : Lorenzo OTTAVIANI.
 * Date : 22/05/2025 19h21
 * But du programme :
-*    Déplacer un joueur.
+*    Déplacer trois joueurs.
 * Entrée : ∅
-* Sortie : Affiche les mouvements du joueur dans le terminal.
+* Sortie : Affiche les mouvements des joueurs dans le terminal.
 */
 
 #include "joueur.hpp"

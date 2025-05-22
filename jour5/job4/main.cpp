@@ -1,8 +1,8 @@
 /*
 * Auteur : Lorenzo OTTAVIANI.
-* Date : 22/05/2025 9h07
+* Date : 22/05/2025 19h21
 * But du programme :
-*    Déplacer un joueur, utilise un constructeur de classe.
+*    Déplacer un joueur.
 * Entrée : ∅
 * Sortie : Affiche les mouvements du joueur dans le terminal.
 */
@@ -10,6 +10,12 @@
 #include "joueur.hpp"
 
 int main() {
+
+    Joueur Dorothy;
+    Dorothy.afficherPosition();
+
+    Joueur Fratac(100, 100, "Fratac");
+    Fratac.afficherPosition();
 
     Joueur Mario(20, 5);
 
