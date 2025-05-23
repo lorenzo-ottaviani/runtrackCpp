@@ -1,10 +1,10 @@
 /*
 * Auteur : Lorenzo OTTAVIANI.
-* Date : 22/05/2025 19h21
+* Date : 23/05/2025 8h00
 * But du programme :
-*    Déplacer un joueur.
+*    Déplacer trois joueurs, utilise le pointeur this.
 * Entrée : ∅
-* Sortie : Affiche les mouvements du joueur dans le terminal.
+* Sortie : Affiche les mouvements des joueurs dans le terminal.
 */
 
 #include "joueur.hpp"
@@ -13,8 +13,13 @@ int main() {
 
     Joueur Dorothy;
     Dorothy.afficherPosition();
+    Dorothy.set_nom("Dorothy");
+    Dorothy.afficherPosition();
 
     Joueur Fratac(100, 100, "Fratac");
+    Fratac.afficherPosition();
+    Fratac.set_x(-60);
+    Fratac.set_y(80);
     Fratac.afficherPosition();
 
     Joueur Mario(20, 5);
